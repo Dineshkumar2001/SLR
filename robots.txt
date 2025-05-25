@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+Disallow: /video/
+Sitemap: https://spazeoimpex.com/sitemap.xml
